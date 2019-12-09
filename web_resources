@@ -1,4 +1,7 @@
 Medium
+Engineering Foundations
+https://medium.com/pinterest-engineering/presto-at-pinterest-a8bda7515e52
+
 
 Data Lake
 https://robinhood.engineering/data-lake-at-robinhood-3e9cdf963368
@@ -7,6 +10,7 @@ https://medium.com/readwrite/data-lake-vs-data-warehouse-which-is-the-best-data-
 
 Data Streaming
 https://medium.com/@lewisdgavin/what-is-real-time-data-37331ff91704
+https://medium.com/pinterest-engineering/scalable-and-reliable-data-ingestion-at-pinterest-b921c2ee8754
 
 Data Platform examples
 https://medium.com/netflix-techblog/delta-a-data-synchronization-and-enrichment-platform-e82c36a79aee
@@ -14,4 +18,3 @@ https://medium.com/netflix-techblog/delta-a-data-synchronization-and-enrichment-
 Spark Tech
 https://medium.com/explore-artificial-intelligence/introduction-to-core-spark-concepts-1e4ec879b9af
 https://medium.com/explore-artificial-intelligence/sparks-structured-api-f3a5cef32955
-
